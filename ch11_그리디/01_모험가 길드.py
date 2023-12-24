@@ -1,7 +1,7 @@
 def solution(n, afs):
-    group, member = 0, 0
     afs.sort()
 
+    group, member = 0, 0
     for af in afs:
         member += 1
         if member >= af:

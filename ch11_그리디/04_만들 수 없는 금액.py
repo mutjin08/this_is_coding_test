@@ -1,9 +1,9 @@
 def solution(n, units):
     units.sort()
-
     target = 1
+
     for unit in units:
-        if target < unit:
+        if unit > target:
             return target
         target += unit
 
