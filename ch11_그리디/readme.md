@@ -23,12 +23,12 @@
     <tr>
         <td>03</td>
         <td>문자열 뒤집기</td>
-        <td></td>
+        <td>case</td>
         <td>https://www.acmicpc.net/problem/1439</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
+        <td>04</td>
+        <td>만들 수 없는 금액</td>
         <td></td>
         <td></td>
     </tr>
