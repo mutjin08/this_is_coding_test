@@ -49,7 +49,7 @@
         <td>무지의 먹방 라이브</td>
         <td>heap, rotation</td>
         <td>https://school.programmers.co.kr/learn/courses/30/lessons/42891</td>
-        <td>AGAIN</td>
+        <td>1</td>
     </tr>
     <tr>
         <td></td>

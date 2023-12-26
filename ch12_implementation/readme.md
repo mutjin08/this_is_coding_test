@@ -21,7 +21,7 @@
         <td>문자열 재정렬</td>
         <td>isalpha, join</td>
         <td></td>
-        <td>AGAIN</td>
+        <td>1</td>
     </tr>
     <tr>
         <td>09</td>
