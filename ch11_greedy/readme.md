@@ -5,7 +5,7 @@
     <tr>
         <th scope="col">번호</td>
         <th scope="col">문제</td>
-        <th scope="col">알고리즘</td>
+        <th scope="col">풀이방법</td>
         <th scope="col">출처링크</td>
         <th scope="col">다시풀기</td>
     </tr>
@@ -40,14 +40,14 @@
     <tr>
         <td>05</td>
         <td>볼링공 고르기</td>
-        <td></td>
+        <td>combination</td>
         <td></td>
         <td>NO</td>
     </tr>
     <tr>
         <td>06</td>
         <td>무지의 먹방 라이브</td>
-        <td></td>
+        <td>heap, rotation</td>
         <td>https://school.programmers.co.kr/learn/courses/30/lessons/42891</td>
         <td>AGAIN</td>
     </tr>
